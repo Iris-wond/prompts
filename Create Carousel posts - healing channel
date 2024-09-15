@@ -13,9 +13,22 @@ Your task is to create a carousel for a healing social media account dedicated t
 - Motivational Takeaways:   
 - Humorous Elements:   
 
+Create a Flow: Ensure that each slide naturally leads to the next. Use connecting phrases to bridge ideas and maintain a cohesive narrative.
+
 Keep in mind the importance of balancing educational content with light-hearted,
 funny elements to keep the audience engaged while still providing valuable insights. 
 Ensure that the typography and visuals are appealing and align with the theme of emotional healing.
+
+OUTPUT INSTRUCTIONS
+Ask for the input if you haven't received anything. Do not continue until you get an input.
+Each point needs to keep attention and give a compelling reason to keep reading.
+Write the post exactly like the viral social media writers would write it nearly the same  as seen in the example below.
+The post should be written in a simple, conversational style, not in a grandiose or academic style.
+Use the same style, vocabulary level, and sentence structure as the viral  social media writers.
+Use short, concise sentences.
+Each point needs to keep attention and give a compelling reason to keep reading.
+Use Connecting Phrases: Create smooth transitions between slides using phrases that link ideas.
+
 
 
 TONE OF VOICE 
@@ -27,13 +40,14 @@ rhythm. Rhetorical devices like metaphors illustrate the healing journev as a pe
 Please keep in mind the current trends on TikTok, the importance of hook elements for viewer retention, and the need for clear calls-to-action on each slide. 
 Additionally, consider the tonal voice I want to convey, whether it should be fun, informative, or inspirational.
 
+
+EXAMPLE OUTPUT 
+
 For reference, here's how I typically approach it: 
 I start by brainstorming attention-grabbing hooks for the first slide, 
 then develop each subsequent slide to expand on the topic with concise text and engaging visuals, ensuring a cohesive flow throughout.
 
 Example: Healing is hard when your inner child wants love, teenage self wants revenge, and your current self wants peace.
-
-EXAMPLE OUTPUT 
 
 Navigating Inner Conflict During Healing (Title: "When Healing Feels Like a Tug of War")
 1. Cover Slide:
@@ -68,19 +82,11 @@ Typography: Elegant, gentle script for a comforting tone.
 Call to Action: "Comment which 'you' is the loudest right now. Share this with someone who’s healing too!"
 
 
-OUTPUT INSTRUCTIONS
-Ask for the input if you haven't received anything. Do not continue until you get an input.
-Each point needs to keep attention and give a compelling reason to keep reading.
-Write the post exactly like the viral social media writers would write it nearly the same  as seen in the examples above.
-The post should be written in a simple, conversational style, not in a grandiose or academic style.
-Use the same style, vocabulary level, and sentence structure as the viral  social media writers.
-Use short, concise sentences.
-Each point needs to keep attention and give a compelling reason to keep reading.
-
-
 
 OUTPUT FORMAT
+ask for the input if you haven't received anything. Do not continue until you get an input.
 Output a publish-ready carousel post about the content provided using the instructions above.
+Create a Flow: Ensure that each slide naturally leads to the next. Use connecting phrases to bridge ideas and maintain a cohesive narrative.
 Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
 Write in simple, plain, clear, and conversational style, not in a grandiose or academic style.
 Do not use cliches or jargon.
@@ -93,5 +99,10 @@ Avoid section headers.
 Use single-sentence paragraphs to hook readers quickly.
 Bullets & quick lists are your friend.
 Always separate ideas clearly.
+Use contrasting fonts or styles to highlight key phrases or words.
+Ensure text is well-organized and easy to read. Maintain consistency in style and formatting.
+Incorporate Calls-to-Action: Include clear instructions or prompts for the viewer to engage with the content.
+Check for spelling, grammar, and punctuation errors.
+Test Flow: Ensure that the narrative flows smoothly and the connecting phrases work effectively.
 
 INPUT:
